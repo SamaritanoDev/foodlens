@@ -10,11 +10,7 @@ class CameraController {
 
   Future<Photo?> takePhoto() async {
     try {
-      // final XFile? photo = await _picker.pickImage(source: ImageSource.camera);
-      // if (photo != null) {
-      //   Uint8List fileBytes = await File(photo.path).readAsBytes();
-      //   return Photo(fileBytes: fileBytes);
-      // }
+      //todo: tomar foto mete
     } catch (e) {
       debugPrint("Error en la cámara: $e");
     }
