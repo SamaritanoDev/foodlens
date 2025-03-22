@@ -1,0 +1,40 @@
+[
+    {
+        "key": 1,
+        "value": "Pasta Carbonara",
+        "ingrediente": [
+            {
+                "key": 1,
+                "value": "Pasta",
+                "pesoGramo": "200g"
+            },
+            {
+                "key": 2,
+                "value": "Tocino",
+                "pesoGramo": "100g"
+            },
+            {
+                "key": 3,
+                "value": "Huevo",
+                "pesoGramo": "2 unidades"
+            }
+        ],
+        "paso": [
+            {
+                "key": 1,
+                "value": "Cocinar la pasta en agua hirviendo."
+            },
+            {
+                "key": 2,
+                "value": "Freír el tocino en una sartén."
+            },
+            {
+                "key": 3,
+                "value": "Mezclar el huevo con la pasta caliente y agregar el tocino."
+            }
+        ],
+        "photo": {
+            "fileBytes": "data:image/png;base64,iVBORw0KGgoAAAANS..."
+        }
+    }
+]
